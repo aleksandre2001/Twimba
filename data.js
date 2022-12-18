@@ -1,4 +1,4 @@
-import images from '../public/images'
+import images from '../images'
 export const tweetsData = [   
     {
         handle: `@TrollBot66756542 💎`,
